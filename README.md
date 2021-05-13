@@ -6,7 +6,7 @@ The click helps with a beauty of input and output to the executable python file
 
 To run:
 
-Python scrape.py --url <url>
+Python scrape.py --url \<give ur url here\>
 
 Output:
 
